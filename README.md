@@ -5,10 +5,10 @@ Python module on election results
 This was a Python module on election results dealing with three counties in Colorado, featuring three candidates. The task was to identify the total votes, votes per county, county with largest voter turnout, number and percentage of votes per candidate, and results for the winning candidate. 
 *The total vote count for the election was 369,711. 
 County breakdown:
-*Denver county had the highest number of votes. 
-**Denver county had 306,055 votes for 82.8%
-**Jefferson county had 38,855 votes for 10.5%
-**Arapahow county had 24,801% for 6.7$
+* Denver county had the highest number of votes. 
+- Denver county had 306,055 votes for 82.8%
+- Jefferson county had 38,855 votes for 10.5%
+- Arapahow county had 24,801% for 6.7$
 * Winner
 Dianna DeGette won the election, with 272,892 votes, 73.8% of the total votes.
 
