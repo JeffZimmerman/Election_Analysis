@@ -4,6 +4,7 @@ This was a Python module on election results dealing with three counties in Colo
 ## Overview
 The task was to identify the total votes, votes per county, county with largest voter turnout, number and percentage of votes per candidate, and results for the winning candidate. 
 *The total vote count for the election was 369,711. 
+
 County breakdown:
 * Denver county had the highest number of votes. 
 - - Denver county had 306,055 votes for 82.8%
