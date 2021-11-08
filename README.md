@@ -2,7 +2,7 @@
 Python module on election results
 
 ## Overview
-This was a Python module on election results dealing with three counties in Colorado, featuring three candidates. The task is to identify the total votes, votes per county, county with largest voter turnout, number and percentage of votes per candidate, and results for the winning candidate. 
+This was a Python module on election results dealing with three counties in Colorado, featuring three candidates. The task was to identify the total votes, votes per county, county with largest voter turnout, number and percentage of votes per candidate, and results for the winning candidate. 
 
 ## Results
 - Total votes are measured by the total overall votes.
