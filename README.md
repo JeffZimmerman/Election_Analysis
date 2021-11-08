@@ -10,7 +10,7 @@ County breakdown:
 - - Denver county had 306,055 votes for 82.8%
 - - Jefferson county had 38,855 votes for 10.5%
 - - Arapahow county had 24,801% for 6.7%
-* Winner: Dianna DeGette won the election, with 272,892 votes, 73.8% of the total votes.
+Winner: Dianna DeGette won the election, with 272,892 votes, 73.8% of the total votes.
 
 
 ## Results
